@@ -1,4 +1,4 @@
-function clusterOptimizationDemo19()
+function clusterOptimizationDemo()
     % Number of nodes
     n_ell = 5;  % Number of nodes
     n_x = 4;    % State dimension
